@@ -1,0 +1,12 @@
+{
+  "name": "natural-russian",
+  "version": "0.1.0",
+  "description": "Makes Russian text read like a careful human wrote it: plain sentences, no AI tells, no em dashes.",
+  "author": {
+    "name": "Vasilii Pleshkan"
+  },
+  "homepage": "https://github.com/PleshkanDAA/natural-russian",
+  "repository": "https://github.com/PleshkanDAA/natural-russian",
+  "license": "MIT",
+  "keywords": ["russian", "writing", "style", "ai-writing", "documentation"]
+}
