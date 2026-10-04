@@ -1,6 +1,6 @@
 {
   "name": "natural-russian",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Makes Russian text read like a careful human wrote it: plain sentences, no AI tells, no em dashes.",
   "author": {
     "name": "Vasilii Pleshkan"
